@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seminar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="history_data">History data</string>
+    <string name="real_time_data">Real time data</string>
+
+</resources>
